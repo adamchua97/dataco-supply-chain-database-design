@@ -1,0 +1,9 @@
+﻿# Files over GitHub's 100 MB limit (not tracked)
+
+# Misc
+.Rhistory
+.ipynb_checkpoints/
+~$*
+*.bak
+Thumbs.db
+.DS_Store
