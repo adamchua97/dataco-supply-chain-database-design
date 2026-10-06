@@ -83,7 +83,7 @@ All cleaning was performed in Python (Jupyter Notebook) rather than spreadsheet 
 
 - [`DATACO-PROJECT-BUSINESS-RULES.pdf`](DATACO-PROJECT-BUSINESS-RULES.pdf) — entity integrity, referential integrity, cardinality, valid value sets, nullable field justification; also available as [Word](GBA6220-GROUP2-PROJECT-BUSINESS-RULES.docx)
 - [`DATACO-PROJECT-DATA-DICTIONARY.pdf`](DATACO-PROJECT-DATA-DICTIONARY.pdf) — full column-level definitions, data types, constraints; also available as [Word](GBA6220-GROUP2-PROJECT-DATA-DICTIONARY.docx)
-- [`dataco-final-project-erd.mwb`](dataco-final-project-erd.mwb) — MySQL Workbench ER diagram (Chen notation); also available as [PDF](dataco-final-project-erd.pdf)
+- [`dataco-final-project-erd.mwb`](dataco-final-project-erd.mwb) — MySQL Workbench ER diagram (Chen notation); also available as [PDF](dataco-final-project-erd.pdf) and [PNG](dataco-final-project-erd.png)
 - [`DATA-PREPARATION-PROCESS.docx`](DATA-PREPARATION-PROCESS.docx) and [`dataco-data-preprocess.ipynb`](dataco-data-preprocess.ipynb) — data preparation write-up and cleaning notebook
 - [`portfolio_case_study.docx`](portfolio_case_study.docx) — portfolio case study
 
