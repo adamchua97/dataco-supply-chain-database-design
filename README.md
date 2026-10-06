@@ -81,10 +81,11 @@ All cleaning was performed in Python (Jupyter Notebook) rather than spreadsheet 
 
 ## Documentation
 
-- `business-rules.md` — entity integrity, referential integrity, cardinality, valid value sets, nullable field justification
-- `data-dictionary.docx` — full column-level definitions, data types, constraints
-- `erd.mwb` — MySQL Workbench ER diagram (Chen notation)
-- `db-handoff-notes.md` — surrogate key list, data type casting guidance, and required table creation order for FK dependencies
+- [`DATACO-PROJECT-BUSINESS-RULES.pdf`](DATACO-PROJECT-BUSINESS-RULES.pdf) — entity integrity, referential integrity, cardinality, valid value sets, nullable field justification
+- [`DATACO-PROJECT-DATA-DICTIONARY.pdf`](DATACO-PROJECT-DATA-DICTIONARY.pdf) — full column-level definitions, data types, constraints
+- [`dataco-final-project-erd.mwb`](dataco-final-project-erd.mwb) — MySQL Workbench ER diagram (Chen notation); also available as [PDF](dataco-final-project-erd.pdf)
+- [`DATA-PREPARATION-PROCESS.docx`](DATA-PREPARATION-PROCESS.docx) and [`dataco-data-preprocess.ipynb`](dataco-data-preprocess.ipynb) — data preparation write-up and cleaning notebook
+- [`portfolio_case_study.docx`](portfolio_case_study.docx) — portfolio case study
 
 ---
 
